@@ -468,7 +468,7 @@ padding: 40px;
     font-weight: 500;
     font-size: 25px;
    width: 400px;
-   left: 35rem !important;
+   left: 30rem !important;
 
   }
   * { box-sizing: border-box; }
@@ -556,7 +556,7 @@ padding: 40px;
     font-weight: 300;
     width: 900px;
     height: 100px;
-    left: 20rem !important;
+    left: 17rem !important;
   }
  .some-space ul li{
  display: inline-block;
